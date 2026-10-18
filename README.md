@@ -1,2 +1,2 @@
 # Obstacle-Avoidance-Robot
-A 2 Wheel Robot that avoids obstacle and navigates it's surrounding to find it way
+# An autonomous robot that detects obstacles using an ultrasonic sensor and controls its motors to avoid them.
